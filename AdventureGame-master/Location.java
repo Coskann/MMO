@@ -27,5 +27,4 @@ public abstract class Location {
 		this.name = name;
 	}
 	
-	
-}
+	}
